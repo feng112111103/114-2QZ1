@@ -50,5 +50,5 @@ public void mt_getResult(){
 
 1. 
 
-Ans: 
+Ans: ![alt text](image.png) 任務一的前三步驟
 
